@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611603713 source:d:\work\level1-term1\programming1\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1611603713 source:d:\work\level1-term1\programming1\project\youssef_ahmed_19016903_abdelmoniem_hany_19017359_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+

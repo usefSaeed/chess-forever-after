@@ -1,0 +1,17 @@
+RNBQKBNR
+PPPPPPPP
+        
+        
+        
+        
+pppppppp
+rnbqkbnr
+                
+                
+Player 1
+8
+Player 2
+8
+2
+0
+
