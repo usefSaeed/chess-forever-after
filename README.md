@@ -29,3 +29,5 @@ o Stalemate.
 o If this player checkmated the other player.
 o If the other player resigned.
 After the game ends, players have the ability to play again if there’s a mutual agreement to that (with no need od restarting application).
+
+
